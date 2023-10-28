@@ -1,0 +1,4 @@
+Fecha de registro: Mon Jul 10 10:39:59 CST 2023, Matricula: s22120240, Equipo: Computadora 9, Software: Word, Arduino, Chrome, Excel,
+Fecha de registro: Mon Jul 10 11:08:37 CST 2023, Matricula: s22120318, Equipo: Computadora 7, Software: Word, Arduino, Chrome, CodeBlocks, Excel,
+Fecha de registro: Sun Jul 16 19:23:49 CST 2023, Matricula: s22120178, Equipo: Computadora 3, Software: Word, Arduino, Chrome, 
+Fecha de registro: Tue Aug 29 07:09:35 CST 2023, Matricula: s22120199, Equipo: Computadora 1, Software: Arduino, Chrome, 
